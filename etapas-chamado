@@ -1,0 +1,6 @@
+produto = "Mouse Gamer WIFI"
+
+if "mouse".lower() in produto.lower():
+    print("Produto encontrado!")
+else:
+    print("Produto não encontrado.")
